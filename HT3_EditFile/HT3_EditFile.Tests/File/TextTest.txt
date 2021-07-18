@@ -1,0 +1,77 @@
+Workplace injuries happen every day and can profoundly affect workers, their
+families, and the communities they live in. This textbook provides workers
+with an introduction to effective injury prevention. The book pays particular
+attention to how issues of precarious employment, gender, and ill health can
+be better handled in Canadian occupational health and safety (OHS).
+This introduction to OHS differs from others because it contends that the
+practice of occupational health and safety can only be properly understood
+if we acknowledge that workers and employers have conflicting interests.
+Specifically, we investigate which workplace hazards are recognized and controlled, the manner in which these hazards are controlled, and who makes
+these decisions. These are all factors that reflect the broader political economy
+of employment and suggest that OHS is contested terrain.The employer had been aware of the dust issues, and five dust-related incidents (e.g., fires) had been recorded in the months leading up to the explosion.
+The employer had failed to remediate the hazard or, indeed, engage in adequate
+preventive maintenance of the mill’s systems. Internal safety inspections were
+inconsistently undertaken and dust buildup was not mentioned, with some
+workers stating “that they were tired of complaining about it as nothing was
+ever done.”
+The Lakeland mill explosion—one of two in BC that year—was a major
+workplace incident. Yet, sadly, these deaths and injuries were but a drop
+in the bucket. In 2012, the Association of Workers’ Compensation Boards of
+Canada (AWCBC) reported 245,365 accepted workers’ compensation claims
+for time-loss injuries. Time-loss injuries are injuries so serious that workers
+cannot go to work for a period of time. The AWCBC also reported 977 accepted
+workplace fatality claims.3
+ As we’ll see below, these (alarming) statistics significantly under-report the true level of workplace injury in Canada.
+Before turning our attention to the practicalities of how to reduce the
+risks of work-related injuries, it is important to spend some time thinking
+about what we mean by a workplace injury. While there is little dispute that
+the injuries that occurred at the Lakeland mill were workplace injuries, the
+work-relatedness of other injuries can be contested. It is also important to give
+some thought to what causes workplace injuries. Most explanations tend to
+focus on the immediate cause of the injury (e.g., the mill blew up). While the
+explosion did indeed cause the workers’ injuries, that is a superficial analysis
+of injury causation. Other, less obvious factors created the conditions that led
+to the explosion. Finally, we need to give some thought to the politics that
+underlie workplace injuries. We start this process—which continues throughout the book—by examining why many workplace injuries are not reported
+and who benefits from this under-reporting. This initial discussion is designed
+to develop a critical perspective on workplace injury.
+Occupational Injuries
+Broadly speaking, a workplace injury is any form of ill health—such as a
+physical or mental injury or illness—that arises because of a worker’s employment. Instances of work-related ill health can encompass a vast array of
+injuries and illnesses. Most work-related injuries will be minor and temporaryconcentrations, such as the methane gas found in Jessica Ernst’s well water.
+But, in high concentrations, methane can displace oxygen and cause rapid
+heart rate, fatigue, nausea, and, eventually, death by asphyxiation. (It is also
+flammable and potentially explosive.) That said, it is important to note that
+doses that are too low to cause acute toxicity can still cause chronic toxicity,
+especially if the dose is repeated over time. Prolonged exposure to silica dust,
+for example, can give rise to silicosis—a lung disease that impedes respiration—but silicosis may not manifest itself for 10 to 30 years after the exposure.
+While toxicity data is helpful in identifying chemical hazards, it is important
+to be cautious when using it. Lethal dose measures focus on the acute toxicity
+of a substance and are less useful in assessing a substance’s chronic toxicity or
+the effect of repeated exposures to low doses. Toxicity experiments also tend
+to be based upon ingestion of the substance because ingestion-based experiments are less expensive than experiments based upon respiration or contact.
+This bias may reduce the accuracy of the resulting data because most chemicals enter our bodies through respiration or skin absorption. Toxicity data is
+also based upon animal experiments, and these results may not be perfectly
+applicable to humans. Perhaps most concerning is that toxicity experiments
+typically assess the toxicity of a single substance in isolation. This ignores the
+reality that most workplaces expose workers to multiple chemicals and these
+exposures may interact synergistically. That is to say, exposures to multiple
+chemicals may increase the toxicity of each chemical out of proportion to its
+toxicity in isolation.
+As discussed in Chapter 3, controlling chemical hazards begins by identifying worker tasks and environmental factors associated with the location.
+Subsequently, we must identify and list each chemical a worker is exposed to
+and the route(s) of entry for that chemical. The potential hazard posed by each
+exposure and the risk of exposure should be determined along with control
+strategies. Control strategies used should follow the hierarchy of controls,
+beginning with elimination (e.g., using non-chemical processes) and substitution (e.g., using a less hazardous chemical), then progressing to engineering
+controls (e.g., physically isolating workers from the chemical).6
+Less effective control approaches include administrative controls that
+minimize or standardize exposures and the provision of personal protective equipment (PPE). In addition, some workplaces provide special facilities
+(e.g., showers, lunch rooms) to minimize workers’ exposure to chemicals.
+Some organizations will also undertake extensive medical and environmental lHello, Test!
+Hello, Test!
+Hello, Test!
+Hello, Test!
+Hello, Test!
+Hello, Test!
+Hello, Test!
